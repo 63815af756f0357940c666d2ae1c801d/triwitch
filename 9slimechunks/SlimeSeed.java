@@ -2,7 +2,7 @@ package tmptest;
 import java.util.Random;
 
 public class SlimeSeed {
-	static final long seed=-229556285580460297L;
+	static final long seed=-123456789012345678L;
 	static int hit(int xPosition, int zPosition){
 		Random rnd = new Random(seed +
                 (long) (xPosition * xPosition * 0x4c1906) +
