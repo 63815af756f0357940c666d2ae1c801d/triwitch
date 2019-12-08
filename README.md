@@ -8,5 +8,8 @@
 ## How to use
  Replace the "fullSeed" value with your own seed, and specific your search region. Redirect your screen output to a file, and then search this file to findout the triplet witch huts. You need to change paths in program.
  
+## 9*Slime Finder
+ Just change seed in 9slimechunks/SlimeSeed.java and run it.
+ 
 ## Environment
 At least it works for Visual Studio 2017, Windows 7 x64.
